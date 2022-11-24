@@ -75,12 +75,7 @@ void setup() {
         loop1++;
       }
       //CC:50:E3:C6:DE:EC
-      /*Serial.println(WiFi.macAddress());
-      IPAddress local_ip = {192,168,253,209};   //ตั้งค่า IP
-      IPAddress gateway={192,168,253,1};    //ตั้งค่า IP Gateway
-      IPAddress subnet={255,255,255,0};   //ตั้งค่า Subnet
-      IPAddress dns={192,168,248,2};  //ตั้งค่า DNS
-      WiFi.config(local_ip,dns,gateway,subnet);   //setค่าไปยังโมดูล*/
+      
    
       Serial.println(""); 
       Serial.println("WiFi connected");   //แสดงข้อความเชื่อมต่อสำเร็จ  
