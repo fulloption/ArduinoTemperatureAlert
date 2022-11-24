@@ -8,7 +8,7 @@ void Line_Notify(String message);
 #include <WiFiClientSecureAxTLS.h>
 // Config connect WiFi
 #define WIFI_SSID "XXXX" // แก้ชื่อ ssid
-#define WIFI_PASSWORD "XXXX" // แก้รหัสผ่าน
+#define WIFI_PASSWORD "XXXX" // แก้รหัสผ่าน 
 // Line config
 #define LINE_TOKEN "XXXX" // แก้ LINE TOKEN
 String message = "Hello NodeMCU and Line";
