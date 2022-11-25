@@ -11,3 +11,7 @@
 
 
 ![MAX6675](https://hallroad.org/images/thumbnails/500/500/detailed/16/MAX6675_MODULE___K_TYPE_Thermocouple_Sensor_Sensor_In_Pakistan.jpg)
+
+
+
+![TM1637](https://lastminuteengineers.b-cdn.net/wp-content/uploads/featuredimages/Arduino-Tutorial-for-Interfacing-TM1637-4-Digit-7-Segment-LED-Display-Module.webp)
