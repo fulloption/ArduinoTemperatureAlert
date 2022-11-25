@@ -8,3 +8,6 @@
 อุปกรณ์
 
 ![ESP8266](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png)
+
+
+![MAX6675](https://hallroad.org/images/thumbnails/500/500/detailed/16/MAX6675_MODULE___K_TYPE_Thermocouple_Sensor_Sensor_In_Pakistan.jpg)
