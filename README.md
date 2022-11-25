@@ -7,4 +7,4 @@
 
 อุปกรณ์
 
-![ESP8266]([https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?resize=768%2C509&quality=100&strip=all&ssl=1])
+![ESP8266](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png)
