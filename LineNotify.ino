@@ -13,8 +13,8 @@ void Line_Notify(String message);
 #define LINE_TOKEN "XXXX" // แก้ LINE TOKEN
 String message = "Hello NodeMCU and Line";
 //String message2 = "%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%20Line%20and%20NodeMCU%20%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81";
-String message2 = "ลองภาษาไทยไปด้วยเลยแล้วกัน";
-//Line Notify ยังไม่รองรับภาษาไทย ดังนั้นเราสามารถแปลงข้อความเป็น utf-8 เพื่อส่งเป็นภาษาไทยได้ จาก http://meyerweb.com/eric/tools/dencoder/
+String message2 = "";
+//Line Notify รองรับภาษาไทย 
 //-----------------------------------------------------------
 char ntp_server1[20] = "pool.ntp.org";
 char ntp_server2[20] = "time.nist.gov";
